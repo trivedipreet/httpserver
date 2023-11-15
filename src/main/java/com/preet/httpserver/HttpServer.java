@@ -21,7 +21,7 @@ import com.preet.httpserver.core.ServerListenerThread;
  * 
  * 
  * RFCs 
- * 7230
+ * 7230,7231
  * Use scannerless parser
  */
 public class HttpServer {
